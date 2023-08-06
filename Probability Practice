@@ -1,0 +1,40 @@
+PART A ANSWER
+-----------
+Determine the probability of the answer being yes given that it was a true clicker? 
+P(Y) = 0.65
+P(N) = 0.35
+
+P(Y|TC) = ? 
+
+P(Y|RC) = 0.5
+P(N|RC) = 0.5 
+
+P(RC) = 0.3
+P(TC) = 0.7
+
+FORMULA
+----------
+P(Y) = P(RC)*P(Y|RC) + p(TC)+P(Y|TC)
+0.65 = 0.3*0.5 + 0.7*P(Y|TC)
+P(Y|TC) = 0.714
+
+PART B ANSWER
+-------------
+T = test positive
+NT = not test positive
+D = has the disease
+ND = doesn't have the disease
+
+P(T|D)  = 0.993
+P(NT|ND) = 0.9999
+p(D) = 0.000025
+p(ND) = 0.999975
+p(D|T) = ?
+
+P(T) = P(D)*P(T|D) + P(ND)*P(T|ND)
+P(T) = 0.000025 * 0.993 + 0.999975 * (1 - 0.9999)
+P(T) = 0.00012482
+
+P(D|T) = P(D)* P(T|D)/P(T)
+        = 0.000025*0.9993/0.00012482
+        = 0.2
