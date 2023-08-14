@@ -11,4 +11,6 @@
 4. Visual Storytelling 2 - an ipynb file with capmetro_UT.csv file attached in the repo
 5. Clustering and dimensionality reduction - an ipynb file with wine.csv file attached in the repo
 6. Market segmentation - an ipynb file with social_marketing.csv attached in the repo
-7. The Reuters corpus - an ipynb file
+7. The Reuters corpus - an ipynb file with the entire ReutersC50 dataset attached
+8. Association rule mining - an RMD file with groceries.txt attached
+9. Image Classification - an ipynb file with EuroSAT_RGB dataset attached
