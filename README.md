@@ -1,5 +1,5 @@
 # Machine-Learning-Homework
-**Group Members - Meenal Gaba, Sharan Arora, Spandan Lal, Udit Dhand**
+**Group Members - Meenal Gaba (mg67784), Sharan Arora (sa44827), Spandan Lal (sp54969), Udit Dhand (umd84)**
 
 **NOTE: Each question has its answer in the same file. The names of the files are the same name as the question name!!!**
 
