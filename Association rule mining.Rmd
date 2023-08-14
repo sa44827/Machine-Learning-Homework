@@ -17,7 +17,7 @@ Question: How related on a grocery list, is the second item to the first?
 In order to solve this we only want groceries list with 2 or more items So we will drop anything with just one item in it
 
 ```{r association}
-groceries = read.csv("~/groceries.txt", header=FALSE, sep = ",")
+groceries = read.csv("groceries.txt", header=FALSE, sep = ",")
 
 ```
 
