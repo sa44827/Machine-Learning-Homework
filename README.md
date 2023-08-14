@@ -9,4 +9,6 @@
 2. Wrangling the Billboard - an ipynb file with the billboard.csv file attached in the repo to reference for all 3 parts. This answers several questions such as top artists and unique songs
 3. Visual Storytelling 1 - an ipynb file with the greenbuildings.csv file attached in the repo
 4. Visual Storytelling 2 - an ipynb file with capmetro_UT.csv file attached in the repo
-5. Clustering and dimensionality reduction - an ipynb file with 
+5. Clustering and dimensionality reduction - an ipynb file with wine.csv file attached in the repo
+6. Market segmentation - an ipynb file with social_marketing.csv attached in the repo
+7. The Reuters corpus - an ipynb file
